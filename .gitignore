@@ -1,5 +1,5 @@
 # Git ignore data for storage
-data/
+modis_data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
